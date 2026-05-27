@@ -1,0 +1,6 @@
+{
+  "name": "3D Printable Card Designer",
+  "description": "Create customizable, 3D printable cards with solid reliefs and text layers via AI dialogue, and export watertight STL mesh models and dual SVGs for Tinkercad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
